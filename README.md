@@ -18,3 +18,4 @@ Use the **View > Panels** menu on the top tool bar to segment your screen. For a
 
 ### Cut your development time by using keyboard shortcuts
 Most of the codio menu commands are shown with keyboard equivalents according to whether you're using Windows or MacOS. Using the keyboard for the commands you use frequently can save time.# CommandLineAdd
+# CommandLineAdd
